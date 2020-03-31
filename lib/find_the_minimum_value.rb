@@ -9,4 +9,4 @@ def find_min_value(array)
   end
   min_value
 end
-end
+
